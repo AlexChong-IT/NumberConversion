@@ -1,0 +1,15 @@
+X:\Github-Work\NumberConversion\bin\Debug\net8.0\NumberConversion.exe
+X:\Github-Work\NumberConversion\bin\Debug\net8.0\NumberConversion.deps.json
+X:\Github-Work\NumberConversion\bin\Debug\net8.0\NumberConversion.runtimeconfig.json
+X:\Github-Work\NumberConversion\bin\Debug\net8.0\NumberConversion.dll
+X:\Github-Work\NumberConversion\bin\Debug\net8.0\NumberConversion.pdb
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\NumberConversion.GeneratedMSBuildEditorConfig.editorconfig
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\NumberConversion.AssemblyInfoInputs.cache
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\NumberConversion.AssemblyInfo.cs
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\NumberConversion.csproj.CoreCompileInputs.cache
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\NumberConversion.sourcelink.json
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\NumberConversion.dll
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\refint\NumberConversion.dll
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\NumberConversion.pdb
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\NumberConversion.genruntimeconfig.cache
+X:\Github-Work\NumberConversion\obj\Debug\net8.0\ref\NumberConversion.dll
